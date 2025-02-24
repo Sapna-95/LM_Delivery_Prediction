@@ -1,3 +1,4 @@
+pip install joblib==1.0.1 --force-reinstall
 import streamlit as st
 import joblib
 import numpy as np
